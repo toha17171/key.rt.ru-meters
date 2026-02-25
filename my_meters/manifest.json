@@ -1,0 +1,11 @@
+{
+  "domain": "my_meters",
+  "name": "Мои Счетчики (API)",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}
